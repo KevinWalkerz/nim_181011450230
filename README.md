@@ -1,6 +1,7 @@
 # nim_181011450230
 
 UTS Mobile Programming - Kevin Handoko
+Screenshot : https://drive.google.com/file/d/1B14gxDCzZcAz4MkRwRPwqfGPat6PQLs3/view?usp=sharing
 
 ## Getting Started
 
